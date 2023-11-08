@@ -1,8 +1,6 @@
 # coin-flip-game
 Welcome to the Coin Flip Game! This web application offers a playful and interactive experience, allowing users to make guesses on the outcome of a virtual coin flip. The game showcases a simple yet engaging design, making it a fun way to test your luck. Give it a try and see if you can guess correctly!
-Here is a screenshot of my game:
-<img src="./assets/img/coin-flip-ss.png" alt="Coin Flip Game" width="200" height="200">
-
+Here is a screenshot of my game: ![Coin Flip Game](./assets/img/coin-flip-ss.png)
 
 ## HTML Structure
 The *head* of HTML file which includes some important links like:
