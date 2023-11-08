@@ -1,5 +1,6 @@
 # coin-flip-game
-Welcome to the Coin Flip Game! This web application lets you guess whether a coin will land on heads or tails. Give it a try and see if you can guess correctly!
+Welcome to the Coin Flip Game! This web application offers a playful and interactive experience, allowing users to make guesses on the outcome of a virtual coin flip. The game showcases a simple yet engaging design, making it a fun way to test your luck. Give it a try and see if you can guess correctly!
+Here is a screenshot of my game: ![Coin Flip Game](./assets/img/coin-flip-ss.png)
 
 ## HTML Structure
 The *head* of HTML file which includes some important links like:
@@ -71,7 +72,7 @@ function select(selector, parent = document) {
 The `compareCoin()` function is responsible for simulating a coin flip and displaying the result after a short delay. Here, a random number (either 0 or 1) is generated representing heads or tails. A switch statement is used to check the combination of user choice and random number. The result messageis updated and corresponding coin image is shown, hiding the other. The dispaly result is delayed by 3000 milliseconds (3 seconds) using `setTimeout` function.
 
 ## Demo
-You can view a live demo of the Coin Flip Game here.
+You can view a live demo of the Coin Flip Game [here](https://gurlinkaur23.github.io/coin-flip-game/).
 
 Enjoy playing the Coin Flip Game! If you have any feedback or suggestions, feel free to open an issue or contribute to the project.
 
