@@ -1,6 +1,8 @@
 # coin-flip-game
 Welcome to the Coin Flip Game! This web application offers a playful and interactive experience, allowing users to make guesses on the outcome of a virtual coin flip. The game showcases a simple yet engaging design, making it a fun way to test your luck. Give it a try and see if you can guess correctly!
-Here is a screenshot of my game: ![Coin Flip Game](./assets/img/coin-flip-ss.png)
+Here is a screenshot of my game: 
+
+![Coin Flip Game](./assets/img/coin-flip-ss.png)
 
 ## Features:
 - Intuitive Interface: User-friendly design for a seamless gaming experience.
@@ -64,7 +66,7 @@ function select(selector, parent = document) {
 }
 ```
 ### Resetting the game
-- `resetGame()`: Resets the coin images and user choice.
+`resetGame()`: Resets the coin images and user choice.
   ```
   let userChoice = null;
   function resetGame() {
@@ -82,6 +84,3 @@ The `compareCoin()` function is responsible for simulating a coin flip and displ
 You can view a live demo of the Coin Flip Game [here](https://gurlinkaur23.github.io/coin-flip-game/).
 
 Enjoy playing the Coin Flip Game! If you have any feedback or suggestions, feel free to open an issue or contribute to the project.
-
-
-
